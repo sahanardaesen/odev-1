@@ -1,0 +1,1 @@
+print("odev-1 yapildi")
